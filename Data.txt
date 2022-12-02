@@ -1,0 +1,23 @@
+Font family	-	font-family: 'Titillium Web', sans-serif;
+Background color	caf0f8
+transparent color	ade8f4
+Font color		000000
+Button color		d90429
+Font color button	ffffff
+
+Header
+
+One-click, multiple solutions 
+Adding Care to your PC’S
+
+who are we
+
+We are TTP Computer service we give satisfaction to our clients
+need for there technology use we offer desktop laptop accessories 
+our mission is to give what you need for technology on future we will
+satisfy you need. we have as certified and best I.T specialist do you have
+computer trouble come visit us technology that you need
+
+Commercial
+The solution that you will truly love.
+

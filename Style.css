@@ -1,0 +1,392 @@
+
+html{
+    font-size: 62.5%;
+    background: url(/Photo/Ramsta2.jpg) no-repeat center fixed; 
+    background-size: cover;
+}
+
+body{
+    background-color:#caf0f8 ;
+    margin: 0 auto;
+}
+
+/* ========================================= */
+
+
+/* Top navigaion */
+.Top-main{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin-bottom: 6rem;
+    max-width: 135rem;
+    margin: 0  auto;
+    margin-bottom: 5rem;
+    
+}
+.Top-button{
+    font-size: 2.5rem;
+    font-weight: 400;
+    font-family: 'Titillium Web' , sans-serif;
+    margin-left: 1rem;
+    text-decoration: none;
+    color: #000000;
+    padding: 0.1rem;
+}
+.Top-button:hover{
+    font-size: 2.5rem;
+    font-weight: 700;
+    font-family: 'Titillium Web' , sans-serif;
+    margin-left: 1rem;
+    text-decoration: none;
+    color: black;
+    transition: 3s;
+    border-bottom: 0.1rem solid black;
+}
+
+
+
+
+/* ============================= */
+
+/* Header */
+.Header-main{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 1rem;
+    max-width: 135rem;
+    margin: 0  auto;
+    margin-bottom: 5rem;
+
+}
+.Header-sub-main{
+    justify-self: center;
+    align-self: center;
+    
+}
+.Header-sub-font-1{
+    margin: 0;
+    font-size: 6.4rem;
+    font-weight: 400;
+    font-family: 'Titillium Web' , sans-serif;
+    line-height:4rem;
+}
+
+.Header-sub-font-2{
+    margin: 0;
+    font-size: 3.9rem;
+    font-weight: 400;
+    font-family: 'Titillium Web' , sans-serif;
+    margin-bottom: 1rem;
+}
+.Header-buton{
+    font-size: 2.5rem;
+    font-weight: 400;
+    font-family: 'Titillium Web' , sans-serif;
+    margin-left: 1rem;
+    text-decoration: none;
+    color: #000000;
+    padding: 0.3rem;
+}
+.Header-buton:hover{
+    font-size: 2.5rem;
+    font-weight: 700;
+    font-family: 'Titillium Web' , sans-serif;
+    margin-left: 1rem;
+    text-decoration: none;
+    border-bottom: 0.1rem solid black;
+    color: black;
+   
+}
+
+.Header-main-photo{
+    justify-self: center;
+    align-self: center; 
+}
+.Header-photo{
+    width: 100%;
+    border-radius: 5%;
+}
+
+/* ================================== */
+
+/* Who are we */
+.Who-main{
+    background-color:#ade8f4 ;
+    max-width: 135rem; 
+    margin: 0 auto;
+    margin-bottom: 5rem;
+}
+.Who-sub-fon1{
+    margin: 0;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: 'Titillium Web' , sans-serif;
+    line-height:4rem;
+}
+.Who-sub-fon2{
+    margin: 0;
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: 'Titillium Web' , sans-serif;
+    line-height:3rem;
+}
+
+
+
+/* =============================== */
+
+
+
+/* Commercial */
+.Commercial-main{
+    max-width: 135rem; 
+    margin: 0 auto;
+}
+
+.Commercial-font-1{
+    margin: 0;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: 'Titillium Web' , sans-serif;
+    line-height:4rem;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+.Commercial-main-photo1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-bottom: 5rem;
+}
+
+.feature-main-subs1{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    row-gap: 1rem;
+    margin-bottom: 5rem;
+}
+.feature-photo{
+    width: 50%;
+}
+.feature-fonts{
+    font-family: 'Titillium Web' , sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+
+}
+
+
+
+
+.Commercial-photo{
+    width: 100%;
+    border-radius: 5%;
+}
+.Commercial-main-photo2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color:#ade8f4 ;
+    gap: 1rem;
+    
+}
+.Commerical-font2{
+    margin: 0;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: 'Titillium Web' , sans-serif;
+    line-height:4rem;
+    text-align: center;
+    margin-bottom: 5rem;
+    background-color:#ade8f4 ;
+}
+.Commercial-photo2{
+    width: 100%;
+
+
+}
+
+/* ======================================= */
+
+
+/* Service */
+
+
+.Service-font1{
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: 'Titillium Web' , sans-serif;
+    line-height:3rem;
+    text-align: center;
+}
+
+.Service-sub-box{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+    max-width: 135rem; 
+    margin: 0 auto;
+}
+
+.Service-button{
+    text-decoration: none;
+    text-align: center;
+}
+.Service-button:hover{
+    opacity: 0.6;
+    transition: 3s;
+}
+
+.Service-photo{
+    width: 100%;
+}
+.Service-sub-box-font1{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    text-decoration: none;
+    color: #000000;
+
+}
+
+/* ============================= */
+/* End */
+
+
+/* Display font intm */
+.Display-font-fonts-Box{
+    margin-top: 7rem;
+}
+.Display-font-fonts{
+    font-size: 7rem;
+    font-family: 'Titillium Web' , sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+.Display-font-item-photo-Box{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+   align-items: center;
+   justify-items: center;
+   margin-bottom: 5rem;
+
+}
+.font-display-1{
+    font-size: 4rem;
+    font-family: 'Titillium Web' , sans-serif;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+.font-display-2{
+    font-size: 3rem;
+    font-family: 'Titillium Web' , sans-serif ;
+    font-weight: 100;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height:normal;
+}
+.font-display-3{
+    margin: 0;
+    font-size:2.5rem ;
+    font-family: 'Titillium Web' , sans-serif;
+    font-weight: 100;
+}
+
+.Display-font-item-photo{
+    width: 50%;
+    border-radius: 1%;
+}
+/* End */
+
+/* =================================== */
+
+/* Form */
+
+.Form-main-box{
+    text-align: center;
+    background-color:#fbf8cc ;
+}
+
+
+.form-fonts1{
+    font-size: 5rem;
+    font-family: 'Titillium web' , sans-serif;
+    font-weight: 100;
+}
+.form-fonts2{
+    font-size: 3rem;
+    font-family: 'Titillium web' , sans-serif;
+    font-weight: 100;
+    margin-bottom: 2rem;
+    margin-left: 2rem;
+}
+
+
+/* =========================== */
+
+/* End */
+.end{
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   gap: 2rem;
+   margin-bottom: 5rem;
+
+}
+
+.Button-end{
+    font-size: 2.5rem;
+    font-weight: 400;
+    font-family: 'Titillium Web' , sans-serif;
+    margin-left: 1rem;
+    text-decoration: none;
+    color: #000000;
+    padding: 0.1rem;
+}
+
+.Button-end:hover{
+    font-size: 2.5rem;
+    font-weight: 700;
+    font-family: 'Titillium Web' , sans-serif;
+    margin-left: 1rem;
+    text-decoration: none;
+    color: black;
+    transition: 3s;
+    border-bottom: 0.1rem solid black;
+}
+
+.done{
+    font-size: 2.5rem;
+    font-weight: 400;
+    font-family: 'Titillium Web' , sans-serif;
+}
+
+
+/* ==================================== */
+/* ===================================== */
+/* ===================================== */
+
+/* Desktop html */
+
+/* Desktop-head */
+
+
+.Desktop-sub-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 135rem;
+    margin: 0  auto;
+    margin-top: 5rem;
+}
+
+.Desktop-product-photo{
+    width: 50%;
+    border-radius: 5%;
+   
+    
+}
+
+
+/* ======================= */

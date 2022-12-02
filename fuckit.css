@@ -1,0 +1,189 @@
+@media(max-width:1355px){
+    .Top-main{
+        max-width: 120rem;
+    }
+    .Header-main{
+        max-width: 120rem;
+    }
+    .Who-main{
+        max-width: 120rem;
+    }
+    .Commercial-main{
+        max-width: 120rem;
+    }
+    .Service-sub-box{
+        max-width: 120rem;
+    }
+}
+
+@media(max-width:1210px){
+    .Top-main{
+        max-width: 110rem;
+    }
+    .Header-sub-font-1{
+        font-size: 6.1rem;
+    }
+    .Header-main{
+        max-width: 110rem;
+    }
+    .Who-main{
+        max-width: 110rem;
+    }
+    .Commercial-main{
+        max-width: 110rem;
+    }
+    .Service-sub-box{
+        max-width: 110rem;
+    }
+}
+
+@media(max-width:1115px){
+    .Top-main{
+        max-width: 100rem;
+    }
+    .Header-sub-font-1{
+        font-size: 5rem;
+    }
+    .Header-main{
+        max-width: 100rem;
+    }
+    .Who-main{
+        max-width: 100rem;
+    }
+    .Commercial-main{
+        max-width: 100rem;
+    }
+    .Service-sub-box{
+        max-width: 100rem;
+    }
+}
+
+@media(max-width:902px){
+    .Top-main{
+        max-width: 80rem;
+    }
+    .Header-sub-font-1{
+        font-size: 4.4rem;
+    }
+    .Header-main{
+        max-width: 80rem;
+    }
+    .Who-main{
+        max-width: 80rem;
+    }
+    .Commercial-main{
+        max-width: 80rem;
+    }
+    .Service-sub-box{
+        max-width: 80rem;
+    }
+}
+@media(max-width:794px){
+    .Top-main{
+        max-width: 70rem;
+    }
+    .Header-sub-font-1{
+        font-size: 3.7rem;
+      
+    }
+    .Header-sub-font-2{
+        font-size:3.2rem ;
+    }
+    .Header-main{
+        max-width: 70rem;
+    }
+    .Who-main{
+        max-width: 70rem;
+    }
+    .Commercial-main{
+        max-width: 70rem;
+    }
+    .feature-fonts{
+        font-size: 1.8rem;
+    }
+    .Commerical-font2{
+        font-size: 2.5rem;
+    }
+    .font-display-1{
+        font-size: 3.1rem;
+    }
+    .Service-sub-box{
+        max-width: 70rem;
+    }
+}
+
+@media(max-width:669px){
+    .Top-main{
+        max-width: 60rem;
+    }
+    .Top-button{
+        font-size: 1.7rem;
+    }
+    .Header-sub-font-1{
+        font-size: 3.1rem;
+      
+    }
+    .Header-sub-font-2{
+        font-size:2.9rem ;
+    }
+    .Header-main{
+        max-width: 60rem;
+    }
+    .Who-main{
+        max-width: 60rem;
+    }
+    .Commercial-main{
+        max-width: 60rem;
+    }
+    .feature-fonts{
+        font-size: 1.5rem;
+    }
+    .Commerical-font2{
+        font-size: 2.1rem;
+    }
+    .font-display-1{
+        font-size: 3.1rem;
+    }
+    .Service-sub-box{
+        max-width: 60rem;
+    }
+}
+@media(max-width:562px){
+    .Top-main{
+        max-width: 50rem;
+    }
+    .Top-button{
+        font-size: 1.1rem;
+    }
+    .Header-sub-font-1{
+        font-size: 2.7rem;
+      
+    }
+    .Header-sub-font-2{
+        font-size:2.5rem ;
+    }
+    .Header-main{
+        max-width: 50rem;
+    }
+    .Who-main{
+        max-width: 50rem;
+    }
+    .Commercial-main{
+        max-width: 50rem;
+    }
+    .feature-fonts{
+        font-size: 1.2rem;
+    }
+    .Commerical-font2{
+        font-size: 1.5rem;
+    }
+    .font-display-1{
+        font-size: 2.5rem;
+    }
+    .font-display-2{
+        font-size: 2.5rem;
+    }
+    .Service-sub-box{
+        max-width: 50rem;
+    }
+}
